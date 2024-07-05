@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Gourhari Kundu from West Bengal, India<br><br>- 🔭 Currently pursuing B.Tech in IT<br>- 📚 I'm currently learning penetration testing on AD environment<br>- ⚡ In my free time I love to play CTFs</p>
+<p align="left">I'm Gourhari Kundu from West Bengal, India<br><br>- 🔭 Currently pursuing B.Tech in IT<br>- 📚 I'm currently learning penetration testing on AD environment and lateral movements<br>- ⚡ In my free time I love to play CTFs</p>
 
 - 📄 Know about my experiences [ResumeLink](https://drive.google.com/file/d/1ocR7uMA9Eb4axnV8Bv0BHuQE03g7Zh3D/view)
 
